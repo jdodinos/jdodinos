@@ -1,35 +1,35 @@
-Full Stack Senior Drupal Developer. Durante este tiempo como profesional, estoy agradecido por poder administrar varios sitios web y contribuir al desarrollo de las empresas donde he trabajado, igualmente agradecido por los conocimientos y experiencia que he obtenido a lo largo de este tiempo.
+Full Stack senior Drupal Developer. During this time as a professional, I am grateful to be able to manage several websites and contribute to the development of the companies where I have worked, equally grateful for the Knowledge and experience that I have obtained along this path.
 
-Tengo conocimientos en Drupal 7, Drupal 8, Drupal 9, PHP, MySQL, Linux, Nginx, Javascript, Jquery, CSS, Bootstrap, SASS, Git, Docker, Lando, Webpack and Vagrant. También, tengo conocimiento en creación de módulos y temas en Drupal 7, D8 y D9 con los estándares de Drupal.
+I have knowledge in Drupal 9, Drupal 8, Drupal 7, PHP, MySQL, DevOps, Linux, Nginx, Javascript, Jquery, CSS, Bootstrap, SASS, Git, Docker and Vagrant. I know how to create custom modules and themes in Drupal 9, Drupal 8 and Drupal 7 with the Drupal Standards.
 
 
-Bits americas - Servicios Kalley y Servicios TCL Drupal 8
-- Desarrollo back del multisite para servicios de la empresa.
-- Conexion a servicios web al CRM de la empresa.
+Bits americas - Servicios Kalley and Servicios TCL (Drupal 8)
+- Backend development of the multisite for company services.
+- Connection to web services to the company's CRM.
 https://www.serviciokalley.com/
 https://www.serviciotcl.com.co/
 
-Bits americas - NIU Colombia Drupal 8
-- Desarrollo back del sitio web para version electrica de motocicletas.
-- Conexion a servicios web al CRM de la empresa.
-- Traer datos de las estadisticas del sitio web principal de NIU https://www.niu.com/en
+Bits americas - NIU Colombia (Drupal 8)
+- Backend development of the website for electric version of motorcycles.
+- Connection to web services to the company's CRM.
+- Fetch statistics data from NIU main website https://www.niu.com/en with javascript
 https://www.niucolombia.com/
 
-Bits americas - Corbeta Textiles Drupal 8
-- Desarrollo back de sitio desacoplado con Angular en frontend.
-- Conexion a servicios web al CRM de la empresa.
+Bits americas - Corbeta Textiles (Drupal 8 - Angular)
+- Decoupled site backend development with Angular in frontend.
+- Connection to web services to the company's CRM.
 https://www.corbetatextiles.com.co/
 
-Bits americas - Kalley Movil Drupal 8
-- Desarrollo back del sitio web
-- Conexion a servicios web al CRM de la empresa.
-- Conexion a servicios web de empresa SUMA en España para procesos de recarga.
+Bits americas - Kalley Movil (Drupal 8)
+- Backend development of the website.
+- Connection to web services to the company's CRM.
+- Connection to SUMA company web services in Spain for recharge processes.
 https://www.kalleymovil.com.co/
 
-Bits americas - Bellhelmets, Spartan Helmets y Xsports Drupal 8
-- Desarrollo back y front del sitio web para productos de cascos 
-- Simulador de credito
-- Conexion a servicios web al CRM de la empresa.
+Bits americas - Bellhelmets, Spartan Helmets y Xsports (Drupal 8)
+- Backend and frontent development of the website. 
+- Credit simulator
+- Connection to web services to the company's CRM.
 https://www.xsportshelmets.com/
 https://www.myspartanhelmets.com/
 https://www.bellhelmets.com.co/

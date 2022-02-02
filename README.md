@@ -34,28 +34,28 @@ https://www.xsportshelmets.com/
 https://www.myspartanhelmets.com/
 https://www.bellhelmets.com.co/
 
-Bits americas - AKT Electric Drupal 8
-- Desarrollo back y front del sitio web para la versión de bicicletas electricas de AKT Motos
-- Simulador de credito
-- Conexion a servicios web al CRM de la empresa.
+Bits americas - AKT Electric (Drupal 8)
+- Back and front development of the website for the electric bike version of AKT Motos
+- Credit simulator
+- Connection to web services to the company's CRM.
 https://www.aktelectric.com.co/
 
-Bits americas - AKT Motos Drupal 7
-Funcionalidad mas importante:
-- Permitir a los clientes realizar la separacion del producto con un avance en el pago, por pasarela de pagos Payulatam
-En este sitio tambien he realizado muchos soporte, bajando el nivel de requerimientos del cliente.
-- Simulador de credito
-- Conexion a servicios web al CRM de la empresa.
+Bits americas - AKT Motos (Drupal 7)
+most important functionality:
+- Allow customers to separate the product with an advance payment, through the Payulatam payment gateway
+In this site I have also done a lot of support, lowering the level of customer requirements.
+- Credit simulator
+- Connection to web services to the company's CRM.
 https://www.aktmotos.com/
 
-Bits Americas - Kontrol Drupal 7
-Creacion del sitio web.
-- Creacion back y front del sitio.
-- Conexion a servicios web al CRM de la empresa.
+Bits Americas - Kontrol (Drupal 7)
+Website creation.
+- Backend and Frontend development of the website.
+- Connection to web services to the company's CRM.
 https://www.kontrol.com.co/
 
-Linktic - Fuerza Aerea de Colombia
-Migracion del sitio web de Drupal 7 a sistema multisite en Drupal 9
+Linktic - Colombian Air Force (Drupal 9)
+Migration of the Drupal 7 website to a multisite system in Drupal 9.
 https://www.fac.mil.co/
 https://www.epfac.edu.co/
 https://www.esufa.edu.co/
@@ -64,6 +64,6 @@ https://www.incorporacion.mil.co/
 https://www.museofac.mil.co/es
 https://aaaes.fac.mil.co/es
 
-Lammworks - Banco General de Panama
-Plugin en Wordpress para el calculo de creditos.
+Lammworks - General Bank of Panama
+Plugin in Wordpress for the calculation of credits.
 https://www.bgeneral.com/calculadora-prestamos-para-autos/

@@ -1,4 +1,7 @@
-Full Stack senior Drupal Developer. During this time as a professional, I am grateful to be able to manage several websites and contribute to the development of the companies where I have worked, equally grateful for the Knowledge and experience that I have obtained along this path.
+Full Stack senior Drupal Developer.
+Acquia Certified Site Builder - Drupal 10.
+
+During this time as a professional, I am grateful to be able to manage several websites and contribute to the development of the companies where I have worked, equally grateful for the Knowledge and experience that I have obtained along this path.
 
 I have knowledge in Drupal 9, Drupal 8, Drupal 7, PHP, MySQL, DevOps, Linux, Nginx, Javascript, Jquery, CSS, Bootstrap, SASS, Git, Docker and Vagrant. I know how to create custom modules and themes in Drupal 9, Drupal 8 and Drupal 7 with the Drupal Standards.
 

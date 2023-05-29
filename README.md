@@ -1,5 +1,5 @@
-Full Stack senior Drupal Developer.
-Acquia Certified Site Builder - Drupal 10.
+<h2>Full Stack senior Drupal Developer.<br>Acquia Certified Site Builder - Drupal 10.</h2>
+<img src="https://www.drupal.org/files/cta_multiple/featured_image/drupal-evergreen-icon-250X230px_0.png" width="90px">
 
 During this time as a professional, I am grateful to be able to manage several websites and contribute to the development of the companies where I have worked, equally grateful for the Knowledge and experience that I have obtained along this path.
 

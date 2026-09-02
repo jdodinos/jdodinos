@@ -50,19 +50,6 @@ I have knowledge in Drupal 10, 9, 8, Drupal 7, PHP, MySQL, Linux, Nginx, Javascr
 
 <div style="border: 1px solid silver; padding: 20px; padding-top: 0px; position: relative;">
   <h3 style="margin-top: -28px; background: #FFF; position: absolute; top: 15px; min-width: 200px; padding-left: 10px; text-transform: uppercase;">
-    DevoTeam Creative Tech
-  </h3>
-  <ul>
-    <li>Provided technical support and maintenance for client websites built with Drupal 10, ensuring optimal performance and security.</li>
-    <li>Developed and optimized custom features using PHP, JavaScript, and Drupal APIs.</li>
-    <li>Worked with Docker and Lando for efficient local development and deployment.</li>
-    <li>Managed code versioning and collaboration using Bitbucket to maintain high development standards.</li>
-    <li>I supported the client's website with Drupal 10 using technologies such as Drupal 10, PHP, JavaScript, Docker and Lando.</li>
-  </ul>
-</div>
-
-<div style="border: 1px solid silver; padding: 20px; padding-top: 0px; position: relative;">
-  <h3 style="margin-top: -28px; background: #FFF; position: absolute; top: 15px; min-width: 200px; padding-left: 10px; text-transform: uppercase;">
     Fyld
   </h3>
   <h4>ANA Aeroportos (Drupal 7, 9)</h4>
